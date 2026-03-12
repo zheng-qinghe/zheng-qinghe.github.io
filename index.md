@@ -36,8 +36,8 @@ In my life, I read, travel, rap, and play badminton.
 - **BFA Nanqiang Village: Culture, Scenery & Rural Revitalization Presentation** <br>
  Volunteer Group, BFA <br>
  Present the cultural charm, idyllic scenery and rural revitalization achievements of Nanqiang Village, the Beautiful Village of the Boao Forum for Asia. <br>
-    [news]（https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm）
-    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ |
+    [news](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.html) |
+    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) 
 
  - **Practice of Technology Empowering Rural Revitalization** <br>
  Promotion Team，HNCST<br>
