@@ -38,11 +38,11 @@ In my life, I read, travel, rap, and play badminton.
  Hejian Lanzuo Auto Parts Co., Ltd.<br>
   Develop and implement the online business system for the Chinese market, and drive digital channel operation and business expansion. <br>
     [web](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
-- **Huaguang Jiao No. 1 Shipwreck and Yuan Dynasty Blue-and-White Stem Cup** <br>
+- **South China Sea Relics Research & Interpretation** <br>
   Shuo Yu <br>
   PhD Thesis <br>
-    [paper]() |
-    [slides]() |
+    []() |
+    [slides](zheng-qinghe.github,io/slides/对话诗文高足杯.pptx) |
     [talk]()
 
 
