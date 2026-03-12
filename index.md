@@ -27,24 +27,28 @@ In my life, I read, travel, rap, and play badminton.
 
 # Selected work
 
-- **do it (di)** <br>
-  Helo <br>
-  First line <br>
-    [product](https://baike.baidu.com/item/怪诞行为学/6830429) |
-    [blogpost]
-    [system card]() |
-    [bibtex]
+
 - **Online Business Deployment in China Market** <br>
  Hejian Lanzuo Auto Parts Co., Ltd.<br>
   Develop and implement the online business system for the Chinese market, and drive digital channel operation and business expansion. <br>
-    [web](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
+    [product](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
+
+- **BFA Nanqiang Village: Culture, Scenery & Rural Revitalization Presentation** <br>
+ Volunteer Group, BFA <br>
+ Present the cultural charm, idyllic scenery and rural revitalization achievements of Nanqiang Village, the Beautiful Village of the Boao Forum for Asia. <br>
+    [news]（https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm）
+    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ |
+
+ - **Practice of Technology Empowering Rural Revitalization** <br>
+ Promotion Team，HNCST<br>
+  On-site Village-based Research: Route Design, Video Editing & Tech-enabled Empowerment for Rural Tourism Revitalization <br>
+    [press](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
+
 - **South China Sea Relics Research & Interpretation** <br>
   Volunteer Group, China (Hainan) Museum of the South China Sea <br>
   On-site Cultural Relics Investigation, Rigorous Historical Research & Innovative Story Interpretation <br>
-    []() |
     [slides](https://github.com/zheng-qinghe/zheng-qinghe.github.io/blob/main/slides/对话诗文高足杯.pdf) |
     [photo](https://zheng-qinghe.github.io/images/2024-5-18-wenchang.jpg)
-
 
 
 # Online talks
