@@ -39,10 +39,10 @@ In my life, I read, travel, rap, and play badminton.
   Develop and implement the online business system for the Chinese market, and drive digital channel operation and business expansion. <br>
     [web](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
 - **South China Sea Relics Research & Interpretation** <br>
-  Shuo Yu <br>
-  PhD Thesis <br>
+  Volunteer Group, China (Hainan) Museum of the South China Sea <br>
+  On-site Cultural Relics Investigation, Rigorous Historical Research & Innovative Story Interpretation <br>
     []() |
-    [slides](https://zheng-qinghe.github,io/slides/对话诗文高足杯.pdf) |
+    [slides](https://github.com/zheng-qinghe/zheng-qinghe.github.io/blob/main/slides/对话诗文高足杯.pdf) |
     [talk]()
 
 
