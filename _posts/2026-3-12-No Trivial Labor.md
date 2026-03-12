@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Release from Trivial Labor"
+title: "No Trivial Labor"
 ---
 
 一切的开始，都源于我工作中突然冒出的一个念头：“既然工作都是由计算机来完成的，那我做的工作中很多的重复性的作业（比如重复的在某个时间段打开同样的应用执行同样的操作）是不是也能自动化呢？”
