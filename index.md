@@ -42,7 +42,7 @@ In my life, I read, travel, rap, and play badminton.
   Shuo Yu <br>
   PhD Thesis <br>
     []() |
-    [slides](zheng-qinghe.github,io/slides/对话诗文高足杯.pdf) |
+    [slides](https://zheng-qinghe.github,io/slides/对话诗文高足杯.pdf) |
     [talk]()
 
 
