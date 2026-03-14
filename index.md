@@ -37,10 +37,9 @@ In my life, I read, travel, rap, and play badminton.
 Shuo Yu<br>
   Task Impact Factor Quantification and Resource Allocation Optimization in OKR Decomposition
 <br>
-   [slides](https://zheng-qinghe.github.io/slides/OKR最优方案计算工具PPT.pdf) | 
+   [product](https://zheng-qinghe.github.io/QuantDecision/) | 
    [repo](https://github.com/zheng-qinghe/QuantDecision) |
-   [product](https://zheng-qinghe.github.io/QuantDecision/) 
-
+   [slides](https://zheng-qinghe.github.io/slides/OKR最优方案计算工具PPT.pdf)
 
 - **Batch Extraction of Email Attachments with Outlook VBA** <br>
 ByteDance Youth Training Camp 2024<br>
@@ -64,8 +63,8 @@ Juejin & Huawei HarmonyOS Hands-on Laboratory 2024<br>
 - **BFA Nanqiang Village: Culture, Scenery & Rural Revitalization Presentation** <br>
  Qinying Yuan,QingQing Zheng,Shuo Yu <br>
  Present the cultural charm, idyllic scenery and rural revitalization achievements of Nanqiang Village, the Beautiful Village of the Boao Forum for Asia. <br>
-    [news](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm) |
-    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ)
+    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) |
+    [news](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm)
  
  - **Tech empowers Jianfengling rainforest eco-study** <br>
 Chunliang Yang，Shuo Yu<br>
