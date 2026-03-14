@@ -41,14 +41,15 @@ Shuo Yu<br>
    [repo](https://github.com/zheng-qinghe/QuantDecision) |
    [product](https://zheng-qinghe.github.io/QuantDecision/) 
 
-- **Campus Student Q&A Assistant** <br>
-Juejin & Huawei HarmonyOS Hands-on Laboratory<br>
-  Using CozeAIbot to learn HNCST official website data and provide Q&A service on WeChat Official Account<br>
 
 - **Batch Extraction of Email Attachments with Outlook VBA** <br>
-ByteDance Youth Training Camp<br>
+ByteDance Youth Training Camp 2024<br>
  Batch extract attachments with filtering & auto-renaming. Dependency-free for office automation.<br>
 [repo](https://github.com/zheng-qinghe/Batch-Extraction-of-Email-Attachments)
+
+- **Campus Student Q&A Assistant** <br>
+Juejin & Huawei HarmonyOS Hands-on Laboratory 2024<br>
+  Using CozeAIbot to learn HNCST official website data and provide Q&A service on WeChat Official Account<br>
 
  - **Practice of Technology Empowering Rural Revitalization** <br>
  Hong Lin,Yuxin Tian,Shuo Yu,Xinxin Pan<br>
