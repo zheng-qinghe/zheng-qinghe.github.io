@@ -6,10 +6,10 @@ permalink: /index.html
 
 <img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-I study the intersection of technology and finance
-
 
 I apply suitable technologies to real scenarios, and deliver practical solutions.
+
+I study the intersection of technology and finance
 
 <!--
 In my work, I study agents and applied math.
@@ -44,7 +44,11 @@ Shuo Yu<br>
 - **Campus Student Q&A Assistant** <br>
 Juejin & Huawei HarmonyOS Hands-on Laboratory<br>
   Using CozeAIbot to learn HNCST official website data and provide Q&A service on WeChat Official Account<br>
-    [product](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
+
+- **Batch Extraction of Email Attachments with Outlook VBA** <br>
+ByteDance Youth Training Camp<br>
+ Batch extract attachments with filtering & auto-renaming. Dependency-free for office automation.<br>
+[repo](https://github.com/zheng-qinghe/Batch-Extraction-of-Email-Attachments)
 
  - **Practice of Technology Empowering Rural Revitalization** <br>
  Promotion Team,HNCST<br>
