@@ -37,9 +37,9 @@ In my life, I read, travel, rap, and play badminton.
 Shuo Yu<br>
   Task Impact Factor Quantification and Resource Allocation Optimization in OKR Decomposition
 <br>
-[slides](https://github.com/zheng-qinghe/zheng-qinghe.github.io/blob/main/slides/OKR最优方案计算工具PPT.pdf) |    
-[repo](https://github.com/zheng-qinghe/QuantDecision) |
-    [product](https://zheng-qinghe.github.io/QuantDecision/) 
+   [slides](https://zheng-qinghe.github.io/slides/OKR最优方案计算工具PPT.pdf) | 
+   [repo](https://github.com/zheng-qinghe/QuantDecision) |
+   [product](https://zheng-qinghe.github.io/QuantDecision/) 
 
 - **Campus Student Q&A Assistant** <br>
 Juejin & Huawei HarmonyOS Hands-on Laboratory<br>
