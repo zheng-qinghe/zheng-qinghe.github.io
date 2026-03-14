@@ -51,21 +51,26 @@ ByteDance Youth Training Camp<br>
 [repo](https://github.com/zheng-qinghe/Batch-Extraction-of-Email-Attachments)
 
  - **Practice of Technology Empowering Rural Revitalization** <br>
- Promotion Team,HNCST<br>
+ Hong Lin,Yuxin Tian,Shuo Yu,Xinxin Pan<br>
   On-site Village-based Research: Route Design, Video Editing & Tech-enabled Empowerment for Rural Tourism Revitalization <br>
     [press](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
 
 - **BFA Nanqiang Village: Culture, Scenery & Rural Revitalization Presentation** <br>
- Volunteer Group,BFA <br>
+ Qinying Yuan,QingQing Zheng,Shuo Yu <br>
  Present the cultural charm, idyllic scenery and rural revitalization achievements of Nanqiang Village, the Beautiful Village of the Boao Forum for Asia. <br>
     [news](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm) |
-    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) 
-
+    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ)
+ 
+ - **Tech empowers Jianfengling rainforest eco-study** <br>
+Chunliang Yang，Shuo Yu<br>
+  STEM empowers Jianfengling eco-study with UAVs, Xingse App for interdisciplinary ecological exploration<br>
+    [slides](https://zheng-qinghe.github.io/slides/研学课程展示汇报.pdf) |
+    [photo](https://zheng-qinghe.github.io/images/尖峰岭.mp4)
 
 - **South China Sea Relics Research & Interpretation** <br>
   Volunteer Group, China (Hainan) Museum of the South China Sea <br>
   On-site Cultural Relics Investigation, Rigorous Historical Research & Innovative Story Interpretation <br>
-    [slides](https://github.com/zheng-qinghe/zheng-qinghe.github.io/blob/main/slides/对话诗文高足杯.pdf) |
+    [slides](https://zheng-qinghe.github.io/slides/对话诗文高足杯.pdf) |
     [news](https://www.toutiao.com/article/7369792471242441242) |
     [photo](https://zheng-qinghe.github.io/images/2024-5-18-wenchang.jpg)
 
