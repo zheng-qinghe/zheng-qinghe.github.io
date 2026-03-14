@@ -33,6 +33,19 @@ In my life, I read, travel, rap, and play badminton.
   Develop and implement the online business system for the Chinese market, and drive digital channel operation and business expansion. <br>
     [product](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
 
+- **Construct a quantitative decision-making model** <br>
+Shuo Yu<br>
+  Task Impact Factor Quantification and Resource Allocation Optimization in OKR Decomposition
+<br>
+[slides](https://github.com/zheng-qinghe/zheng-qinghe.github.io/blob/main/slides/OKR最优方案计算工具PPT.pdf) |    
+[repo](https://github.com/zheng-qinghe/QuantDecision) |
+    [product](https://zheng-qinghe.github.io/QuantDecision/) 
+
+- **Campus Student Q&A Assistant** <br>
+Juejin & Huawei HarmonyOS Hands-on Laboratory<br>
+  Using CozeAIbot to learn HNCST official website data and provide Q&A service on WeChat Official Account<br>
+    [product](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
+
  - **Practice of Technology Empowering Rural Revitalization** <br>
  Promotion Team,HNCST<br>
   On-site Village-based Research: Route Design, Video Editing & Tech-enabled Empowerment for Rural Tourism Revitalization <br>
