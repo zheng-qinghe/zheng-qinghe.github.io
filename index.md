@@ -65,7 +65,7 @@ ByteDance Youth Training Camp<br>
 Chunliang Yang，Shuo Yu<br>
   STEM empowers Jianfengling eco-study with UAVs, Xingse App for interdisciplinary ecological exploration<br>
     [slides](https://zheng-qinghe.github.io/slides/研学课程展示汇报.pdf) |
-    [photo](https://zheng-qinghe.github.io/images/Jianfengling, Hainan Tropical Rainforest National Park.png）
+    [photo](https://zheng-qinghe.github.io/images/Jianfengling, Hainan Tropical Rainforest National Park.png)
 
 - **South China Sea Relics Research & Interpretation** <br>
   Volunteer Group, China (Hainan) Museum of the South China Sea <br>
