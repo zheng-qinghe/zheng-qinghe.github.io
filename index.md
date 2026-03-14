@@ -62,6 +62,7 @@ Juejin & Huawei HarmonyOS Hands-on Laboratory<br>
   Volunteer Group, China (Hainan) Museum of the South China Sea <br>
   On-site Cultural Relics Investigation, Rigorous Historical Research & Innovative Story Interpretation <br>
     [slides](https://github.com/zheng-qinghe/zheng-qinghe.github.io/blob/main/slides/对话诗文高足杯.pdf) |
+    [news](https://www.toutiao.com/article/7369792471242441242) |
     [photo](https://zheng-qinghe.github.io/images/2024-5-18-wenchang.jpg)
 
 
