@@ -47,7 +47,7 @@ ByteDance Youth Training Camp 2024<br>
  Batch extract attachments with filtering & auto-renaming. Dependency-free for office automation.<br>
 [repo](https://github.com/zheng-qinghe/Batch-Extraction-of-Email-Attachments)
 
-- ** AI Material Retrieval for Medium-Video** <br>
+- **AI Material Retrieval for Medium-Video** <br>
 Shuo Yu<br>
 Integrate AI material retrieval technology modules in the medium-video field and implement intelligent material retrieval applications.<br>
 [product](https://www.bilibili.com/video/BV1naZZYnEjd?t=161.4)
