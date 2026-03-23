@@ -7,77 +7,66 @@ permalink: /index.html
 <!--<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 -->
 
-I apply suitable technologies to real scenarios, and deliver practical solutions.
+我将适配的技术应用于真实场景，提供落地可行的解决方案。
 
-I study the intersection of technology and finance
-
-<!--
-In my work, I study agents and applied math.
-
-In my life, I read, travel, rap, and play badminton.
--->
-<!-- - To anyone: give me [feedback](https://www.admonymous.co/shuo_yu) about anything! -->
-
-<!--I dedicate 30 minutes per week to chat with students. Just paper plane me!  -->
+我深耕科技与业务的交叉领域研究。
 
 
-<!---
 # Recent News
 -->
 
 # Selected work
 
 
-- **Online Business Deployment in China Market** <br>
- Hejian Lanzuo Auto Parts Co., Ltd.<br>
-  Develop and implement the online business system for the Chinese market, and drive digital channel operation and business expansion. <br>
-    [product](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
+- **中国市场线上业务部署** <br>
+ 河间蓝佐汽车配件有限公司<br>
+  为中国市场开发并落地线上业务系统，推动数字化渠道运营与业务拓展。<br>
+    [成果](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
 
-- **Construct a quantitative decision-making model** <br>
-Shuo Yu<br>
-  Task Impact Factor Quantification and Resource Allocation Optimization in OKR Decomposition
-<br>
-   [product](https://zheng-qinghe.github.io/QuantDecision/) | 
-   [repo](https://github.com/zheng-qinghe/QuantDecision) |
-   [slides](https://zheng-qinghe.github.io/slides/OKR最优方案计算工具PPT.pdf)
+- **构建量化决策模型** <br>
+于硕<br>
+  OKR 分解中的任务影响因子量化与资源配置优化<br>
+   [成果](https://zheng-qinghe.github.io/QuantDecision/) | 
+   [代码](https://github.com/zheng-qinghe/QuantDecision) |
+   [幻灯片](https://zheng-qinghe.github.io/slides/OKR最优方案计算工具PPT.pdf)
 
-- **Batch Extraction of Email Attachments with Outlook VBA** <br>
-ByteDance Youth Training Camp 2024<br>
- Batch extract attachments with filtering & auto-renaming. Dependency-free for office automation.<br>
-[repo](https://github.com/zheng-qinghe/Batch-Extraction-of-Email-Attachments)
+- **基于 Outlook VBA 实现邮件附件批量提取** <br>
+字节跳动青训营 2024<br>
+ 实现带筛选、自动重命名的附件批量提取，打造无依赖办公自动化方案.<br>
+[代码](https://github.com/zheng-qinghe/Batch-Extraction-of-Email-Attachments)
 
-- **AI Material Retrieval for Medium-Video** <br>
-Shuo Yu<br>
-Integrate AI material retrieval technology modules in the medium-video field and implement intelligent material retrieval applications.<br>
-[product](https://www.bilibili.com/video/BV1naZZYnEjd?t=161.4)
+- **面向中视频的 AI 素材检索** <br>
+于硕<br>
+整合中视频领域 AI 素材检索技术模块，落地智能化素材检索应用。<br>
+[成果](https://www.bilibili.com/video/BV1naZZYnEjd?t=161.4)
 
-- **Campus Student Q&A Assistant** <br>
-Juejin & Huawei HarmonyOS Hands-on Laboratory 2024<br>
-  Using CozeAIbot to learn HNCST official website data and provide Q&A service on WeChat Official Account<br>
+- **校园学生答疑手** <br>
+掘金*华为 HarmonyOS动手实验室 2024<br>
+  依托 CozeAIbot 学习学校官网数据，在微信公众号提供智能问答服务<br>
 
- - **Practice of Technology Empowering Rural Revitalization** <br>
- Hong Lin,Yuxin Tian,Shuo Yu,Xinxin Pan<br>
-  On-site Village-based Research: Route Design, Video Editing & Tech-enabled Empowerment for Rural Tourism Revitalization <br>
-    [press](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
+ - **科技赋能乡村振兴实践项目** <br>
+ 林虹,田雨鑫,于硕,潘欣欣<br>
+  驻村实地调研、路线规划、视频剪辑及科技赋能乡村旅游振兴实践 <br>
+    [成果](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
 
-- **BFA Nanqiang Village: Culture, Scenery & Rural Revitalization Presentation** <br>
- Qinying Yuan,QingQing Zheng,Shuo Yu <br>
- Present the cultural charm, idyllic scenery and rural revitalization achievements of Nanqiang Village, the Beautiful Village of the Boao Forum for Asia. <br>
-    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) |
-    [news](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm)
+- **博鳌亚洲论坛南强村：文旅风貌与乡村振兴成果展示** <br>
+ 袁琴英,郑青青,于硕 <br>
+ 呈现博鳌亚洲论坛美丽乡村 —— 南强村的文化魅力、田园风光与乡村振兴成果。 <br>
+    [成果](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) |
+    [报道](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm)
  
- - **Tech empowers Jianfengling rainforest eco-study** <br>
-Chunliang Yang，Shuo Yu<br>
-  STEM empowers Jianfengling eco-study with UAVs, Xingse App for interdisciplinary ecological exploration<br>
-    [slides](https://zheng-qinghe.github.io/slides/研学课程展示汇报.pdf) |
-    [photo](https://zheng-qinghe.github.io/images/Jianfengling, Hainan Tropical Rainforest National Park.png)
+ - **科技赋能尖峰岭雨林生态研学** <br>
+杨春亮，于硕<br>
+  STEM教育依托无人机、形色App赋能尖峰岭生态研学，开展跨学科生态探索<br>
+    [幻灯片](https://zheng-qinghe.github.io/slides/研学课程展示汇报.pdf) |
+    [图片](https://zheng-qinghe.github.io/images/Jianfengling, Hainan Tropical Rainforest National Park.png)
 
-- **South China Sea Relics Research & Interpretation** <br>
-  Volunteer Group, China (Hainan) Museum of the South China Sea <br>
-  On-site Cultural Relics Investigation, Rigorous Historical Research & Innovative Story Interpretation <br>
-    [slides](https://zheng-qinghe.github.io/slides/对话诗文高足杯.pdf) |
-    [news](https://www.toutiao.com/article/7369792471242441242) |
-    [photo](https://zheng-qinghe.github.io/images/2024-5-18-wenchang.jpg)
+- **南海文物研究与阐释** <br>
+  中国（海南）南海博物馆志愿者团队 <br>
+  现场文物调研、严谨史料研究与创新叙事阐释 <br>
+    [幻灯片](https://zheng-qinghe.github.io/slides/对话诗文高足杯.pdf) |
+    [报道](https://www.toutiao.com/article/7369792471242441242) |
+    [照片](https://zheng-qinghe.github.io/images/2024-5-18-wenchang.jpg)
 
 
 
