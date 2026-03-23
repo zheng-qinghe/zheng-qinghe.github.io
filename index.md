@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /index.html
 ---
 
@@ -12,10 +12,8 @@ permalink: /index.html
 我深耕科技与业务的交叉领域研究。
 
 
-# Recent News
--->
 
-# Selected work
+# 项目经验
 
 
 - **中国市场线上业务部署** <br>
@@ -70,7 +68,7 @@ permalink: /index.html
 
 
 
-# Recent readings
+# 近期阅读
 * Clear Thinking (Shane Parrish) 
 * 怪诞行为学 （Dan Ariely）（赵德亮、夏蓓洁）
 * Hands-On Programming with R(Garrextt Grolemund, Hadley Wickham) 
