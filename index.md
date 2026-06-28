@@ -7,7 +7,7 @@ permalink: /index.html
 <!--<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 -->
 
-我将适配的技术应用于真实场景，提供落地可行的解决方案。
+我将适配的技术应用于真实场景。
 
 我深耕科技与业务的交叉领域研究。
 
@@ -16,7 +16,7 @@ permalink: /index.html
 # 项目经验
 
 
-- **中国市场线上业务部署** <br>
+- **企业业务线上部署** <br>
  河间蓝佐汽车配件有限公司<br>
   为中国市场开发并落地线上业务系统，推动数字化渠道运营与业务拓展。<br>
     [成果](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
@@ -39,7 +39,7 @@ permalink: /index.html
 [成果](https://www.bilibili.com/video/BV1naZZYnEjd?t=161.4)
 
 - **校园学生答疑手** <br>
-掘金*华为 HarmonyOS动手实验室 2024<br>
+掘金×华为 HarmonyOS动手实验室 2024<br>
   依托 CozeAIbot 学习学校官网数据，在微信公众号提供智能问答服务<br>
 
  - **科技赋能乡村振兴实践项目** <br>
@@ -54,7 +54,7 @@ permalink: /index.html
     [报道](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm)
  
  - **科技赋能尖峰岭雨林生态研学** <br>
-杨春亮，于硕<br>
+杨春亮,于硕<br>
   STEM教育依托无人机、形色App赋能尖峰岭生态研学，开展跨学科生态探索<br>
     [幻灯片](https://zheng-qinghe.github.io/slides/研学课程展示汇报.pdf) |
     [图片](https://zheng-qinghe.github.io/images/Jianfengling, Hainan Tropical Rainforest National Park.png)
