@@ -16,7 +16,7 @@ permalink: /index.html
 # 项目经验
 
 
-- **企业业务线上部署** <br>
+- **线上平台从0到1搭建与运营体系落地** <br>
  河间蓝佐汽车配件有限公司<br>
   为中国市场开发并落地线上业务系统，推动数字化渠道运营与业务拓展。<br>
     [成果](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
