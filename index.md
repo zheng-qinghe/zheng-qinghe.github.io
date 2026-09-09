@@ -65,12 +65,12 @@ permalink: /index.html
  - **科技赋能乡村振兴实践项目** <br>
  林虹,田雨鑫,于硕,潘欣欣<br>
   驻村实地调研、路线规划、视频剪辑及科技赋能乡村旅游振兴实践 <br>
-    [blog](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
+    [press](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
 
 - **博鳌亚洲论坛南强村：文旅风貌与乡村振兴成果展示** <br>
  袁琴英,郑青青,于硕 <br>
  呈现博鳌亚洲论坛美丽乡村 —— 南强村的文化魅力、田园风光与乡村振兴成果。 <br>
-    [blog](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) |
+    [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) |
     [press](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm)
  
  - **科技赋能尖峰岭雨林生态研学** <br>
