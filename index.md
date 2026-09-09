@@ -15,11 +15,30 @@ permalink: /index.html
 
 # 项目经验
 
+- **刻画 · 跨文化用户画像平台** <br>
+ 于硕，权润禾，张静怡<br>
+  规则引擎、embedding 向量与预测打分的本地部署用户画像平台，支持跨文化、跨行业适配。<br>
+   [成果](https://zheng-qinghe.github.io/Portray/) |
+   [代码](https://github.com/zheng-qinghe/Portray)
+
+- **Prompt Atlas · 提示词资产库与方法论** <br>
+ 于硕<br>
+  跨 Agent 宿主的提示词资产库与方法论沉淀，统一管理与复用提示词。<br>
+   [成果](https://zheng-qinghe.github.io/prompt-atlas/) |
+   [代码](https://github.com/zheng-qinghe/prompt-atlas)
+
+- **Probability Workshop · 概率推演工具** <br>
+ 于硕<br>
+  零依赖单文件 HTML 工具：将不确定事件拆解为变量并量化，用蒙特卡洛计算概率，并如实标注不可预测的部分。<br>
+   [成果](https://zheng-qinghe.github.io/probability-workshop/) |
+   [代码](https://github.com/zheng-qinghe/probability-workshop)
+
+
 
 - **线上平台从0到1搭建与运营体系落地** <br>
- 河间蓝佐汽车配件有限公司<br>
+ 于硕，赵晓伟<br>
   主导部署公司国内线上业务落地，推动数字化渠道运营与业务拓展。<br>
-    [成果](https://shop888rr15755788.1688.com/page/index.html?spm=0.0.wp_pc_common_header_companyName_undefined.0) 
+    [成果](https://zheng-qinghe.github.io/lanzuo-auto-parts/index.html) 
 
 - **构建量化决策模型** <br>
 于硕<br>
