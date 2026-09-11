@@ -42,7 +42,7 @@ permalink: /index.html
     [product](https://zheng-qinghe.github.io/lanzuo-auto-parts/index.html) 
 
 - **构建量化决策模型** <br>
-于硕<br>
+于硕,李毅琛<br>
   OKR 分解中的任务影响因子量化与资源配置优化<br>
    [project](https://zheng-qinghe.github.io/QuantDecision/) | 
    [repo](https://github.com/zheng-qinghe/QuantDecision) |
@@ -63,18 +63,18 @@ permalink: /index.html
   依托 CozeAIbot 学习学校官网数据，在微信公众号提供智能问答服务<br>
 
  - **科技赋能乡村振兴实践项目** <br>
- 林虹,田雨鑫,于硕,潘欣欣<br>
+ [林虹](https://fltd.hncst.edu.cn/2022_09/25_11/content-51759.html),田雨鑫,于硕,潘欣欣<br>
   驻村实地调研、路线规划、视频剪辑及科技赋能乡村旅游振兴实践 <br>
     [press](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
 
 - **博鳌亚洲论坛南强村：文旅风貌与乡村振兴成果展示** <br>
- 袁琴英,郑青青,于硕 <br>
+ [袁琴英](https://fltd.hncst.edu.cn/2024_09/19_23/content-35777.html),郑青青,于硕 <br>
  呈现博鳌亚洲论坛美丽乡村 —— 南强村的文化魅力、田园风光与乡村振兴成果。 <br>
     [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) |
     [press](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm)
  
  - **科技赋能尖峰岭雨林生态研学** <br>
-杨春亮,于硕<br>
+[杨春亮](https://fltd.hncst.edu.cn/2024_09/19_21/content-35780.html),于硕<br>
   STEM教育依托无人机、形色App赋能尖峰岭生态研学，开展跨学科生态探索<br>
     [slides](https://zheng-qinghe.github.io/slides/研学课程展示汇报.pdf) |
     [image](https://zheng-qinghe.github.io/images/Jianfengling, Hainan Tropical Rainforest National Park.png)
