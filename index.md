@@ -92,9 +92,13 @@ permalink: /index.html
     [press](https://www.toutiao.com/article/7369792471242441242) |
     [photo](https://zheng-qinghe.github.io/images/2024-5-18-wenchang.jpg)
 
+- **Sentient Being · 果蝇大脑控制的贪吃蛇** <br>
+于硕<br>
+  用真实果蝇连接组（MaleCNS，166,700 神经元）作为冻结脉冲储备池驱动贪吃蛇——一个在屏幕上“活”起来的、有感知的生命。<br>
+   [project](https://zheng-qinghe.github.io/sentient-being/) |
+   [repo](https://github.com/zheng-qinghe/sentient-being)
 
 
-# Recent readings
 * Clear Thinking (Shane Parrish) 
 * 怪诞行为学 （Dan Ariely）（赵德亮、夏蓓洁）
 * Hands-On Programming with R(Garrextt Grolemund, Hadley Wickham) 
