@@ -7,13 +7,15 @@ permalink: /index.html
 <!--<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 -->
 
+# About
+
 我将适配的技术应用于真实场景。
 
 我深耕科技与业务的交叉领域研究。
 
 
 
-# 项目经验
+# Selected work
 
 - **刻画 · 跨文化用户画像平台** <br>
  于硕,权润禾,张静怡<br>
@@ -88,7 +90,7 @@ permalink: /index.html
 
 
 
-# 近期阅读
+# Recent readings
 * Clear Thinking (Shane Parrish) 
 * 怪诞行为学 （Dan Ariely）（赵德亮、夏蓓洁）
 * Hands-On Programming with R(Garrextt Grolemund, Hadley Wickham) 
