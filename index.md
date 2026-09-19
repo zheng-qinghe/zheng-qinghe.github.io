@@ -1,13 +1,11 @@
 ---
 layout: page
-title: 关于我
+title: About
 permalink: /index.html
 ---
 
 <!--<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 -->
-
-# About
 
 我将适配的技术应用于真实场景。
 
@@ -18,20 +16,20 @@ permalink: /index.html
 # Selected work
 
 - **刻画 · 跨文化用户画像平台** <br>
- 于硕,权润禾,张静怡<br>
+于硕,权润禾,张静怡<br>
   规则引擎、embedding 向量与预测打分的本地部署用户画像平台，支持跨文化、跨行业适配。<br>
    [project](https://zheng-qinghe.github.io/Portray/docs/) |
    [demo](https://zheng-qinghe.github.io/Portray/) |
    [repo](https://github.com/zheng-qinghe/Portray)
 
 - **Prompt Atlas · 提示词资产库与方法论** <br>
- 于硕<br>
+于硕<br>
   跨 Agent 宿主的提示词资产库与方法论沉淀，统一管理与复用提示词。<br>
    [project](https://zheng-qinghe.github.io/prompt-atlas/) |
    [repo](https://github.com/zheng-qinghe/prompt-atlas)
 
 - **Probability Workshop · 概率推演工具** <br>
- 于硕<br>
+于硕<br>
   将不确定事件拆解为变量并量化，用蒙特卡洛计算概率，并如实标注不可预测的部分。<br>
    [demo](https://zheng-qinghe.github.io/probability-workshop/) |
    [repo](https://github.com/zheng-qinghe/probability-workshop)
@@ -39,7 +37,7 @@ permalink: /index.html
 
 
 - **线上平台从0到1搭建与运营体系落地** <br>
- 于硕,赵晓伟<br>
+于硕,赵晓伟<br>
   主导部署公司国内线上业务落地，推动数字化渠道运营与业务拓展。<br>
     [product](https://zheng-qinghe.github.io/lanzuo-auto-parts/index.html) 
 
@@ -52,7 +50,7 @@ permalink: /index.html
 
 - **基于 Outlook VBA 实现邮件附件批量提取** <br>
 字节跳动青训营 2024<br>
- 实现带筛选、自动重命名的附件批量提取，打造无依赖办公自动化方案.<br>
+ 实现带筛选、自动重命名的附件批量提取，打造无依赖办公自动化方案。<br>
 [repo](https://github.com/zheng-qinghe/Batch-Extraction-of-Email-Attachments)
 
 - **面向中视频的 AI 素材检索** <br>
@@ -65,12 +63,12 @@ permalink: /index.html
   依托 CozeAIbot 学习学校官网数据，在微信公众号提供智能问答服务<br>
 
  - **科技赋能乡村振兴实践项目** <br>
- [林虹](https://fltd.hncst.edu.cn/2022_09/25_11/content-51759.html),田雨鑫,于硕,潘欣欣<br>
+[林虹](https://fltd.hncst.edu.cn/2022_09/25_11/content-51759.html),田雨鑫,于硕,潘欣欣<br>
   驻村实地调研、路线规划、视频剪辑及科技赋能乡村旅游振兴实践 <br>
     [press](https://mp.weixin.qq.com/s/Lx24q5MZQ7oOgHxATFKskw) 
 
 - **博鳌亚洲论坛南强村：文旅风貌与乡村振兴成果展示** <br>
- [袁琴英](https://fltd.hncst.edu.cn/2024_09/19_23/content-35777.html),郑青青,于硕 <br>
+[袁琴英](https://fltd.hncst.edu.cn/2024_09/19_23/content-35777.html),郑青青,于硕 <br>
  呈现博鳌亚洲论坛美丽乡村 —— 南强村的文化魅力、田园风光与乡村振兴成果。 <br>
     [press](https://mp.weixin.qq.com/s/OQldxExABvQafIgtdkrMKQ) |
     [press](https://paper.people.com.cn/rmrbhwb/html/2023-03/27/content_25972178.htm)
@@ -82,7 +80,7 @@ permalink: /index.html
     [image](https://zheng-qinghe.github.io/images/Jianfengling, Hainan Tropical Rainforest National Park.png)
 
 - **南海文物研究与阐释** <br>
-  中国（海南）南海博物馆志愿者团队 <br>
+中国（海南）南海博物馆志愿者团队 <br>
   现场文物调研、严谨史料研究与创新叙事阐释 <br>
     [slides](https://zheng-qinghe.github.io/slides/对话诗文高足杯.pdf) |
     [press](https://www.toutiao.com/article/7369792471242441242) |
