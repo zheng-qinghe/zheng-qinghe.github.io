@@ -15,6 +15,12 @@ permalink: /index.html
 
 # Selected work
 
+- **熵减计划 · 一台为存在者降熵的叙事引擎** <br>
+于硕<br>
+  以熵源为第一公民：诊断熵从哪来 → 开叙事处方 → 生成只属于它的书。接入新物种 = 写一张模型卡，引擎不改。<br>
+   [project](https://zheng-qinghe.github.io/entropy-reduction/) |
+   [repo](https://github.com/zheng-qinghe/entropy-reduction)
+
 - **Sentient Being · 果蝇大脑控制的贪吃蛇** <br>
 于硕<br>
   用真实果蝇连接组（MaleCNS，166,700 神经元）作为冻结脉冲储备池驱动贪吃蛇——一个在屏幕上“活”起来的、有感知的生命。<br>
