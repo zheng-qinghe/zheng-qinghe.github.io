@@ -47,8 +47,8 @@ permalink: /index.html
    [repo](https://github.com/zheng-qinghe/probability-workshop)
 
 - **TroubleSolver · 会自我证伪的建模助手** <br>
-于硕<br>
-  开源的、会自我证伪的建模助手：先引导把问题问全，再建模并主动搜自己的反例；交付数字零手写、逐条可复算。<br>
+于硕,权润禾<br>
+  灵感源于数学建模大赛，而做的一个开源的、会自我证伪的建模助手：先引导把问题问全，再建模并主动搜自己的反例；交付数字零手写、逐条可复算。<br>
    [project](https://zheng-qinghe.github.io/trouble-solver/) |
    [repo](https://github.com/zheng-qinghe/trouble-solver)
 
