@@ -4,8 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<!--<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
--->
+<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
 我将适配的技术应用于真实场景。
 
