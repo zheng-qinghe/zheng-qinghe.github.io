@@ -27,7 +27,7 @@ permalink: /index.html
    [repo](https://github.com/zheng-qinghe/sentient-being)
 
 - **刻画 · 跨文化用户画像平台** <br>
-于硕,权润禾,张静怡<br>
+于硕,权润禾,张静怡,朱小燕<br>
   规则引擎、embedding 向量与预测打分的本地部署用户画像平台，支持跨文化、跨行业适配。<br>
    [project](https://zheng-qinghe.github.io/Portray/docs/) |
    [demo](https://zheng-qinghe.github.io/Portray/) |
